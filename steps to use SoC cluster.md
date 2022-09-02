@@ -1,7 +1,7 @@
 ### NOTE: this is a formatted .md file. Open in an IDE for better readability.
 Before you start, it is a lot of hassle, so maybe try kaggle private notebooks and private data source first?
 
-## <B>WARNING: YOU MUST USE SoCvpn FOR JUPYTER NOTEBOOKS (SEE 3.3)</B>
+## <B>NOTE: YOU MUST USE SoCvpn FOR JUPYTER NOTEBOOKS (SEE 3.3)</B>
 ## 1. Steps to login to SoC
 1.	Ssh into sunfire.comp.nus.edu.sg PORT 22 (use putty maybe?)
 2.	Enter plain username (no domain)
